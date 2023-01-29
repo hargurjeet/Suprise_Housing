@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# House Price Predicition
+> A US based housing company is entering in Australian Marekt. They want to leverage analytices to buy houses as lower price and then sell it off on the higher price.
 
 
 ## Table of Contents
@@ -11,6 +11,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
+  
 - Provide general information about your project here.
 - What is the background of your project?
 - What is the business probem that your project is trying to solve?
