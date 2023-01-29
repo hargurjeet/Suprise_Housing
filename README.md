@@ -11,6 +11,9 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
+
+> # Business Problem
+> 
   
 - Provide general information about your project here.
 - What is the background of your project?
