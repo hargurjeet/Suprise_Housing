@@ -22,8 +22,8 @@
 > We are required to model the price of houses wtih the avaliable independent variables. This model will be used by the company to understand how exactly the prices vary with the variables. Model will also help them to understand the dynamics of the market.
 
 - ### Analytical Goal
-> A regression model to predict the actual value of the property.
-> Significant variables to priedict the price of the house.
+> - A regression model to predict the actual value of the property.
+> - Identifying Significant variables to predict the price of the house.
 
 - ### About Dataset
 > - The dataset contains 1400+ records providing the details of houses in form of different fetaures
@@ -32,9 +32,15 @@
 
 ## Conclusions
 - Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+ - Following are the top 5 features impacting the model performance
+    - 'OverallQual'
+    - 'GrLivArea'
+    - '1stFlrSF'
+    - 'BsmtFinSF1'
+    - 'YearBuilt'
+- Ridge and lasso regression results are similar. Ridge seems to have perfromed slight better.
+
+- The average R2 score is 80%. There are scope for further improvement.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
